@@ -2,6 +2,14 @@
   "identity": {
     "file_name": "identity.json"
   },
+  "Amazon": {
+    "file_name": "qwen2vl_formatfinal.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "images": "image",
+      "messages": "conversations"
+    }
+  },
   "alpaca_en_demo": {
     "file_name": "alpaca_en_demo.json"
   },
